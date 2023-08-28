@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2109947011}
   - component: {fileID: 2109947009}
   - component: {fileID: 447324591551207373}
+  - component: {fileID: 375794386}
   m_Layer: 0
   m_Name: Sword
   m_TagString: Untagged
@@ -162,6 +163,18 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &375794386
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 447324591266573575}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4caf1c378796b5642bf7334b03252ef9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &447324592009447150
 GameObject:
   m_ObjectHideFlags: 0
